@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6e2fbd110c52a34c8853701bc711c1e, type: 3}
+  m_Name: NumbersKit
+  m_EditorClassIdentifier: 
+  _cards:
+  - {fileID: 11400000, guid: 1a46acda933fea24986e044f63931426, type: 2}
+  - {fileID: 11400000, guid: 2aec79f00bb08af47bbef30833e201ca, type: 2}
+  - {fileID: 11400000, guid: c961cd0f7a04bfa4f9ae04996842a5b1, type: 2}
+  - {fileID: 11400000, guid: c48b6e5f2ef45a94fa1b7660d2015581, type: 2}
+  - {fileID: 11400000, guid: b09869d663bc9a249acdf8a0d722bbe2, type: 2}
+  - {fileID: 11400000, guid: 889cfa3d4d11ae84aa4f720eebd342b3, type: 2}
+  - {fileID: 11400000, guid: 32f8efa580e29894c93a623f1c625280, type: 2}
+  - {fileID: 11400000, guid: 397f78a5147f0cf469dd6137dcecce33, type: 2}
+  - {fileID: 11400000, guid: f4996aed5c3a68846b317fca135a853b, type: 2}
+  - {fileID: 11400000, guid: 8c08604a18ec06c49892d2505c432ea8, type: 2}
