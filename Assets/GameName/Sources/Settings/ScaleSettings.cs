@@ -11,10 +11,7 @@ public class ScaleSettings
     [SerializeField] private Ease _ease = Ease.InBounce;
 
     public float Duration => _duration;
-
     public int Vibrato => _vibrato;
-
     public Vector3 Strength => _strength;
-
     public Ease Ease => _ease;
 }
